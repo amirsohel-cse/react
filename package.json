@@ -2,7 +2,7 @@
   "name": "simple-reactjs-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://phpstack-443087-1443697.cloudwaysapps.com",
+  "homepage": "http://phpstack-443087-1443697.cloudwaysapps.com/public",
   "dependencies": {
     "axios": "^0.18.0",
     "react": "^16.4.1",
